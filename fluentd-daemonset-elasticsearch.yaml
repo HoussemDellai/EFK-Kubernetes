@@ -1,3 +1,4 @@
+# src: https://github.com/fluent/fluentd-kubernetes-daemonset/blob/master/fluentd-daemonset-elasticsearch.yaml
 apiVersion: apps/v1
 kind: DaemonSet
 metadata:

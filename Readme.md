@@ -2,10 +2,6 @@
 
 This workshop shows how to install the EFK (Elasticsearch, Fluentd and Kibana) stack in Kubernetes using Helm, to get application logs.
 
-The detailed article is available here:
-
-
-
 And these are the amin commands used to install EFK:
 
 $ helm install elasticsearch stable/elasticsearch 
